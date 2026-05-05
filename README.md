@@ -16,3 +16,6 @@ Analyze sales data to understand customer behavior and improve sales strategy fo
 ## Files
 - Vrinda_Store_Dashboard.xlsx
 - Vrinda_Report.pdf
+
+- ## Dashboard Preview
+![Dashboard](dashboard.png)
